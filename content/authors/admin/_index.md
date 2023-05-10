@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: Luis
+name_pronunciation: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,11 +15,11 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: Luis
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: 'test'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -28,7 +28,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:luis@luisgluna.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
