@@ -31,18 +31,18 @@ social:
     link: 'mailto:luis@luisgluna.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: #
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/spacex/
+    link: #
   - icon: tiktok
     icon_pack: fab
-    link: https://www.tiktok.com/@spacex.to.mars
+    link: #
   - icon: github
     icon_pack: fab
     link: https://github.com/m0rpheux
   # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/uploads/resume.pdf`
+  # To enable, copy your resume/CV to `#`
   - icon: file-pdf
     icon_pack: fas
     label: View Resume
